@@ -97,7 +97,7 @@ This project is open source and available under the [MIT License](LICENSE).
 
 Your Name - adithyakakarla123@gmail.com
 
-Project Link: [https://github.com/yourusername/your-repo-name](https://github.com/yourusername/your-repo-name)
+Project Link: [https://github.com/Adithya17-star/TechStore---Modern-E-commerce-Website](https://github.com/Adithya17-star/TechStore---Modern-E-commerce-Website)
 
 ## 🙏 Acknowledgments
 
