@@ -4,7 +4,7 @@ A fully responsive, modern e-commerce website built with HTML, CSS, and vanilla 
 
 ## 🚀 Live Demo
 
-[View Live Website](https://yourusername.github.io/repository-name)
+[View Live Website](https://Adithya17-star.github.io/TechStore---Modern-E-commerce-Website)
 
 ## ✨ Features
 
